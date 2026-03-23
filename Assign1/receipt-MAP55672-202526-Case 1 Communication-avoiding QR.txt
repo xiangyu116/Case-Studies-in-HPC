@@ -1,8 +1,0 @@
-Your submission was successful!
-Module: MAP55672-202526, CASE STUDIES IN HPC
-Assessment: Case 1: Communication-avoiding QR
-
-Submission date: 22/02/2026, 21:51 (GMT)
-Submission size: 284.1 KB
-Submitter: YUNYI XIANG
-Confirmation number: 4dce2677bf6f4519a334749c6ee64a03
